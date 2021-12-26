@@ -39,9 +39,6 @@ updated_damages = convert_updated_damages(damages)
 print(f"Updated Damages: {updated_damages}")
 
 
-
-
-
 # write your construct hurricane dictionary function here:
 hurricanes = {}
 def construct_hurricane(names, months, years, max_sustained_winds, areas_affected, updated_damages, deaths):
